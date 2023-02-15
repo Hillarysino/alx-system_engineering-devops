@@ -1,1 +1,1 @@
-Write a script that deletes all the regular files
+0x02 shell I/O redirections and filters readme file
